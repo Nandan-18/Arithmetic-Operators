@@ -1,3 +1,3 @@
-# Arithmetic Operators
+# Arithmetic Operator Calculator ➗
 
-A menu-driven Python program to perform various arithmetic operations on user inputted numbers.
+A menu-driven terminal-based Python program to perform various arithmetic operations based on user inputted numbers.
